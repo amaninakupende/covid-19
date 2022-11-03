@@ -1,0 +1,7 @@
+###首先通过node启动服务器 再进入webapp启动页面
+
+###nodeAPI
+  由于是ts写的服务器文件，所以启动时命令为：ts-node 文件名
+ 
+###webapp
+  启动：npm run dev
